@@ -12,11 +12,13 @@ A module that teaches analog electronics. This circuit below models an easy to u
 ### CG2007
 
 A module that teaches x86 assembly and hardware. This circuit below models an actual system complete with a 8088 CPU, Ram and Rom, while having a software written in assembly that operates a lift
+
 ![ScreenShot](https://raw.github.com/soulslicer/NUS-Hardware-Projects/master/CG2007.png
 )
 
 ### EE2020
 
-A module that teaches logic circuits. This circuit below models an actual coin operated washing machine, that accepts coin inputs and performs a task
+A module that teaches logic circuits. This circuit below models an actual coin operated washing machine, that accepts coin inputs and performs tasks
+
 ![ScreenShot](https://raw.github.com/soulslicer/NUS-Hardware-Projects/master/EE2020.png
 )
